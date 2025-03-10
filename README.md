@@ -1,6 +1,7 @@
 ## Summary
 
-**Data Source:** Mushroom [Dataset]. (1981). UCI Machine Learning Repository. https://doi.org/10.24432/C5959T.
+**Data Source:** Mushroom [Dataset]. (1981). UCI Machine Learning Repository.
+https://doi.org/10.24432/C5959T.
 
 **The goal of this small machine learning project** was to develop a neural network to accurately classify mushrooms as either edible or poisonous. Based on all available results and analyses, a 10-neuron model using 13 input parameters and Adam optimizer (with an initial learning rate of 0.001), is considered the best and most cost-effective model obtained so far. It can achieve 100% classification accuracy while containing only one hidden layer and requiring only 13 mushroom features. This is highly advantageous in practice, as measuring mushroom features can be labour-intensive, time-consuming, and expensive. 
 
